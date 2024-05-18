@@ -1,0 +1,12 @@
+Type: code, prix, qte_stock, ...
+--------------------------------
+Livre: 2345, 45, 65, Introduction to Java, Thierry Groussard, 2015, Eni
+Livre: 2110, 57, 34, Tableur Excel, Gomash, 2019, Goulet
+Magazine: 0001, 15, 17, la cuisine de Ricardo au BBQ, 04, 2022, cuisine
+CD :  4560,  20, 23, 67, Mon album, Lastar, 2015, 14
+Jeu: 9012, 27, 17, monopoli, 99, immobilier, débutant
+Magazine: 0023, 10, 12, The economist,01, 2016,finance
+DVD: 6700, 34, 18, 150, Le meilleur film, réalisateur, 2014
+Livre: 2355, 150, 185, Java EE, Jérome Lafosse, 2013, ENI
+CD: 4588, 21, 14, 50, Un autre album, Interprète, 2010, 5
+Livre: 9855, 250, 180, Intelligence artificielle, Charles Ignard, 2019, ENI
